@@ -1,5 +1,6 @@
 # Description of REAL TIME Ozone_Search_Mobile_App(OSMA)📱
 "Ozone_Search_Mobile_App(OSMA)📱" is a mobile application that incorporating visualization dashboard and represents real-time ozone figures. OSMA was developed with Java and real-time ozone figure public dataset.
+![Watch the video](major_features.png)
 
 ## What is Ozone?
 Ozone (/ˈoʊzoʊn/), or trioxygen, is an inorganic molecule with the chemical formula O
