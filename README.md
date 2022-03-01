@@ -11,3 +11,9 @@ Ozone (/ˈoʊzoʊn/), or trioxygen, is an inorganic molecule with the chemical f
 
 ## Why OSMA?
 OSMA's goal is to prevent ozone's harmfulness and aware the danger. Relatively low amounts of ozone can cause chest pain, coughing, shortness of breath and, throat irritation.
+
+## OSMA Dependencies 
+OSMA was built in android studio and with Java and interior database.
+
+## References
+https://www.data.go.kr/
