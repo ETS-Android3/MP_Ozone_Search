@@ -16,4 +16,4 @@ OSMA's goal is to prevent ozone's harmfulness and aware the danger. Relatively l
 OSMA was built in android studio and with Java and interior database.
 
 ## References
-https://www.data.go.kr/
+Public Dataset Link: https://www.data.go.kr/
