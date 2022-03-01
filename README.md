@@ -8,4 +8,4 @@ Ozone (/ˈoʊzoʊn/), or trioxygen, is an inorganic molecule with the chemical f
 2 (dioxygen). Ozone is formed from dioxygen by the action of ultraviolet (UV) light and electrical discharges within the Earth's atmosphere. It is present in very low concentrations throughout the latter, with its highest concentration high in the ozone layer of the stratosphere, which absorbs most of the Sun's ultraviolet (UV) radiation.
 
 ## Why OSMA?
-OSMA's goal is to prevent low-level ozone's harmfulness and aware the danger. Relatively low amounts of ozone can cause chest pain, coughing, shortness of breath and, throat irritation.
+OSMA's goal is to prevent ozone's harmfulness and aware the danger. Relatively low amounts of ozone can cause chest pain, coughing, shortness of breath and, throat irritation.
