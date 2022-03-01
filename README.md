@@ -16,7 +16,10 @@ OSMA's goal is to prevent ozone's harmfulness and aware the danger. Relatively l
 OSMA was built in android studio and with Java and interior database.
 
 ## OSMA Implementation
-Import our repository and make apk file from your android studio.
+Import our repository and make apk file to your android studio.
 
 ## References
 Public Dataset Link: https://www.data.go.kr/
+
+## Authors
+* **Shawn Kang**,  *Initial work*,  *email : taegue52@daum.net*
