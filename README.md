@@ -26,7 +26,7 @@ OSMA was built in android studio and with Java, interior database.
 Import our repository and make OSMA apk file to your android studio.
 
 ## References
-Public dataset API: https://www.data.go.kr/
+Ozone Public API: https://www.data.go.kr/
 
 ## Authors
 **Shawn Kang**,  *Initial work*,  *email : taegue52@daum.net*
