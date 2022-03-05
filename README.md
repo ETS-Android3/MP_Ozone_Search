@@ -1,5 +1,5 @@
 # Description of REAL TIME Ozone_Search_Mobile_App(OSMA)📱
-"Ozone_Search_Mobile_App(OSMA)📱" is a mobile application that incorporates visualization dashboard and represents real-time ozone figures. OSMA is developed with Java and real-time ozone public dataset.
+"Ozone_Search_Mobile_App(OSMA)📱" is a mobile application that incorporates visualization dashboard and represents real-time ozone figures. OSMA is developed with Java and real-time ozone public API.
 
 * Explanation Video KR @ https://youtu.be/g4UX_BQAUv8
 * Explanation Video ENG @ https://youtu.be/dWM8u7iAA-A
