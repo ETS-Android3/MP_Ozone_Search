@@ -16,7 +16,7 @@ Ozone (/ˈoʊzoʊn/), or trioxygen, is an inorganic molecule with the chemical f
 2 (dioxygen). Ozone is formed from dioxygen by the action of ultraviolet (UV) light and electrical discharges within the Earth's atmosphere. It is present in very low concentrations throughout the latter, with its highest concentration high in the ozone layer of the stratosphere, which absorbs most of the Sun's ultraviolet (UV) radiation(referenced by wikipedia).
 
 ## Why OSMA?
-OSMA's goal is to prevent ozone's harmfulness and aware it's danger. Relatively low amounts of ozone can cause chest pain, coughing, shortness of breath and, throat irritation.
+Ozone contamination increases mortality, cerebral infarction, and skin cancer. Waste gas, water contamination, and environmental pollution have stimulated the relatively low amount of ozone. As we couldn't stand and watch, we suggest measuring precise ozone figures to prevent its fundamental problems.
 
 ## OSMA Dependencies 
 OSMA was built in android studio and with Java, interior database.
