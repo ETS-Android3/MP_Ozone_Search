@@ -7,7 +7,7 @@
 ![Watch the video](major_features.png)
 
 👇(Watch Video) Click!👇
-[![Watch the video](ozone_expvideo.png)](https://www.canva.com/design/DAE5xsGGZKw/AEDb4pizJgtR90TdRZhLOQ/watch?utm_content=DAE5xsGGZKw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+[![Watch the video](t.png)](https://youtu.be/dWM8u7iAA-A)
 
 ## What is Ozone?
 Ozone (/ˈoʊzoʊn/), or trioxygen, is an inorganic molecule with the chemical formula O
